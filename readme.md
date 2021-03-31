@@ -4,7 +4,7 @@
 
 ---
 
-## Índice
+## 📖 Índice
 
   - [🧾 Sobre](#-sobre)
   - [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧾 Sobre
+## 📄 Sobre
 
 Esse projeto foi feito durante o curso de [Wordpress como CMS](http://origamid.com/curso/wordpress-como-cms/) da [Origamid](http://origamid.com/) como capacitação em Wordpress na *byron.solutions*.
 
